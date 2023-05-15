@@ -74,5 +74,5 @@ In light of the test results, the ChatBot is deemed ready for use with the under
 
 
 
-### The complete Test Cases and comments from the Quality Assurance Engineer can be found [HERE](https://docs.google.com/document/d/1DBiTsUXrXVFhM6eL8a6jUAQXW1FlwmLx9_k02_2YZFI/edit?usp=sharing)
+### The Complete Test Cases and detailed comments from QA Radoslav Sheytanov can be found [HERE](https://docs.google.com/document/d/1DBiTsUXrXVFhM6eL8a6jUAQXW1FlwmLx9_k02_2YZFI/edit?usp=sharing)
 
