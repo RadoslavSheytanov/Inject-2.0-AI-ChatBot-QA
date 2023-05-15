@@ -1,4 +1,4 @@
-# Inject 2.0 AI ChatBot - Manual QA Testing
+# Inject 2.0 AI ChatBot by Joseph Straight - Manual QA Testing
 
 ## Introduction
 
