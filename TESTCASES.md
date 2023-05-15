@@ -73,16 +73,6 @@ Based on the findings of this report, I recommend prioritizing the enhancement o
 In light of the test results, the ChatBot is deemed ready for use with the understanding that improvements will continue to be made in the areas highlighted in this report.
 
 
-##The full testing discussion between me and the ChatBot which helped me to create this QA report:
-
-1 - ![Image 1](https://prnt.sc/mF8QG_c8XYol)
-2 - ![Image 2](https://prnt.sc/57CnoR4PJivL)
-3 - ![Image 3](https://prnt.sc/3AXTB0BI1yA3)
-4 - ![Image 4](https://prnt.sc/M62CjhRPVMbY)
-5 - ![Image 5](https://prnt.sc/pzr5KhN7Ytqf)
-6 - ![Image 6](https://prnt.sc/NitDopKjdf_F)
-
-
 
 ### The Complete Test Cases and detailed comments from QA Radoslav Sheytanov can be found [HERE](https://docs.google.com/document/d/1DBiTsUXrXVFhM6eL8a6jUAQXW1FlwmLx9_k02_2YZFI/edit?usp=sharing)
 
